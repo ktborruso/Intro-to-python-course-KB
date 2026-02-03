@@ -1,21 +1,14 @@
-# Book Scraper - Food and Drink Category
+# Book Scraper Project
 
-This application scrapes all book data from on [Books to Scrape](http://books.toscrape.com/).
+A Python-based web scraper for `books.toscrape.com` that extracts product details, 
+organizes data by category into CSV files, and downloads book cover images.
 
-## How to Install and Run
+## Setup Instructions
 
-### 1. Create a Virtual Environment
-Open your terminal/command prompt in the project folder and run:
-- **Windows:** `python -m venv venv`
-- **Mac/Linux:** `python3 -m venv venv`
-
-### 2. Activate the Virtual Environment
-- **Windows:** `venv\Scripts\activate`
-- **Mac/Linux:** `source venv/bin/activate`
-
-### 3. Install Requirements
-Run the following command:
-`pip install -r requirements.txt`
-
-### 4. Run the Script
-`python scrape_food_drink.py`
+1. **Open up a Google Colab**
+     In Google Colab, you can use the plug in in Collab to run the Python Code
+2. **Start with Phase 1**
+     Copy and paste Phase 1 into the Google colab code box. Be sure to incude the top sections where we import the necessary librabries
+3. **Repeat Phases 2-4**
+4. **Finding the files**
+   In Google Colab - the files can be found in thr drop down on the left hand corner in the second to last icon - the one looking like a folder. You can download files from there. 
